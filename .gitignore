@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Logs y caché
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Directorios de Angular
+.angular/
